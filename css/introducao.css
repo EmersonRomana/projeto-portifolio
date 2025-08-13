@@ -42,6 +42,7 @@
   .introducao {
     margin-top: 150px;
     padding-inline: 40px;
+    padding: 20px 40px 30px;
   }
 
   .introducao {
@@ -61,7 +62,7 @@
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   .introducao {
     margin-top: 150px;
     padding-left: 20px;
